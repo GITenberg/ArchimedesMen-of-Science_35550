@@ -1,0 +1,32 @@
+_repo: ArchimedesMen-of-Science_35550
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heath, Thomas Little, Sir
+    aliases:
+    - Heath, T. L. (Thomas Little), Sir
+    - Heath, T. S. (Thomas S.), Sir
+    birthdate: 1861
+    deathdate: 1940
+    gutenberg_agent_id: '37741'
+    url: http://www.gutenberg.org/2009/agents/37741
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Little_Heath
+description: ''
+gutenberg_issued: '2011-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35550'
+  lccn: '21003990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Pioneers of progress. Men of science.
+subjects:
+- !lcsh 'Archimedes'
+- !lcc 'QA'
+title: Archimedes
+url: http://www.gutenberg.org/ebooks/35550
