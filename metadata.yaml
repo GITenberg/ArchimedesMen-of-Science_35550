@@ -30,5 +30,6 @@ series_note: Pioneers of progress. Men of science.
 subjects:
 - !lcsh 'Archimedes'
 - !lcc 'QA'
+- GITenberg
 title: Archimedes
 url: http://www.gutenberg.org/ebooks/35550
